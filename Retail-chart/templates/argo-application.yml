@@ -14,7 +14,7 @@ spec:
         userprofile:
           activeVersion: blue
   destination:
-    server: https://F8C05FAA761A5324F0F3D3F7B7A7B642.gr7.us-west-2.eks.amazonaws.com
+    server: https://4158B2F6706F1C3612FE24973FCC59D0.gr7.ap-south-1.eks.amazonaws.com
     namespace: retail
   syncPolicy:
     automated:
