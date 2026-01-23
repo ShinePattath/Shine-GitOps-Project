@@ -14,7 +14,7 @@ spec:
         userprofile:
           activeVersion: blue
   destination:
-    server: https://moorthis-aks-cluster-dns-eddo93ut.hcp.japanwest.azmk8s.io:443
+    server: https://murali-aks-cluster-dns-obc9sb3u.hcp.israelcentral.azmk8s.io:443
     namespace: retail
   syncPolicy:
     automated:
